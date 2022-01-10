@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   ![Profile Views](https://komarev.com/ghpvc/?username=kavindaperera&color=blue)
   
   <p float="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kavindaperera&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kavindaperera&count_private=true&show_icons=true&include_all_commits=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kavindaperera&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kavindaperera&count_private=true&show_icons=true&include_all_commits=true"/>
 
   </p>
 
