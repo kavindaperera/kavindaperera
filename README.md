@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
   ![Profile Views](https://komarev.com/ghpvc/?username=kavindaperera&color=blue)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindaperera&show_icons=true&count_private=true&hide=prs)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavindaperera&show_icons=true&count_private=true&hide=contribs)
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindaperera" alt="kavindaperera"/></p>   
 
